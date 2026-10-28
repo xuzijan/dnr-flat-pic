@@ -1,0 +1,12 @@
+interface:
+  display_name: "DnR FlatPic v2.0"
+  short_description: "Turn photos into flat-vector-style art and optional poster or SVG outputs"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  products:
+  - "chatgpt"
+  - "codex"
+  - "api"
+  - "atlas"
+  allow_implicit_invocation: true

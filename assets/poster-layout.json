@@ -1,0 +1,30 @@
+{
+  "version": "poster-v1",
+  "canvas": {
+    "width": 900,
+    "height": 1200
+  },
+  "photo": {
+    "x": 0,
+    "y": 0,
+    "width": 900,
+    "height": 600,
+    "fit": "cover",
+    "align": "xMidYMid"
+  },
+  "lower": {
+    "x": 0,
+    "y": 600,
+    "width": 900,
+    "height": 600,
+    "fill": "#F5F2EB"
+  },
+  "icon": {
+    "x": 290,
+    "y": 740,
+    "width": 320,
+    "height": 320,
+    "source": "png",
+    "clip": "ios-continuous-v1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "clustering": "color-cluster",
+  "hierarchical": "stacked",
+  "mode": "spline",
+  "layerDifference": 32,
+  "filterSpeckle": 10,
+  "colorPrecision": 7,
+  "cornerThreshold": 30,
+  "lengthThreshold": 4,
+  "maxColors": 24,
+  "simplify": 2.5,
+  "pathPrecision": 2,
+  "optimize": 2,
+  "maxIterations": 10,
+  "spliceThreshold": 0
+}
